@@ -1,0 +1,11 @@
+/**
+ * Css Stylesheet of Dragon WordPress Theme
+ *
+ * @package   Dragon
+ * @version   1.0.0
+ * @date      2018.4.9
+ * @author    龙笑天下 <lxt@ilxtx.com>
+ * @site      龙笑天下 <www.ilxtx.com>
+ * @link      https://www.ilxtx.com/dragon.html
+**/
+.widget_lxtxusersrank,.widget_tincreditsrank,.lxtx-ali,.catlist-shop,.menu-items-lxtxtxwzdh,.menu-items-lxtxshangcheng,.menu-items-lxtxyhlb,.lxtx-rguser-arc,.menu-items-hideinba{display:none !important;}.two-col-container{padding-right:0px !important;}#main-wrap-left{max-width:100% !important;}#sidebar,.stickys,#layoutswt,.randompost,.page.page-template .pagesidebar,.vip-buy2v,.footer-newsletter-link,.footer-rss-link,.wzh-zhzname .annual_member,.wzh-zhzname .quarter_member,.wzh-zhzname .month_member,.user-text .annual_member,.user-text .quarter_member,.user-text .month_member,.comment_author_vips .vip{display:none !important;}.page.page-template .pagecontent{margin-left:0;}
